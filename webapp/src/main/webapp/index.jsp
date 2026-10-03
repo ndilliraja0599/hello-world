@@ -8,6 +8,9 @@
     <label for="email">email: </label>
     <input type="email" name="email"  required>
     <br>
+     <label for="mobile">mobile: </label>
+    <input type="mobile" name="mobile"  required>
+    <br>
     <label for="password">password: </label>
     <input type="password" name="password"  required>
     <br>
